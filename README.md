@@ -5,13 +5,7 @@
 🚀 Building Web Applications and ERP Systems  
 
 ## 🛠 Skills
-- Java
-- Spring Boot
-- Rest Api
-- MicroService
-- React
-- MySQL
-- HTML, CSS, JavaScript
+- Java ,  Spring Boot , Rest Api , MicroService , React , MySQL , HTML , CSS , JavaScript
 
 ## 📌 Projects
 - E-learning Website
