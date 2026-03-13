@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Mar 13, 2026, 12_40_20 PM" src="https://github.com/user-attachments/assets/b05668c5-bea0-4a9d-857d-3e4a1a3740fe" />
+<img width="500" height="400" alt="ChatGPT Image Mar 13, 2026, 12_40_20 PM" src="https://github.com/user-attachments/assets/b05668c5-bea0-4a9d-857d-3e4a1a3740fe" />
  # Hi 👋, I'm Ankit
 💻 Full Stack Developer (Java, Spring Boot, React)
 
