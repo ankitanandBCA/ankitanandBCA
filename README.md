@@ -1,8 +1,11 @@
 <img width="898" height="265" alt="pic" src="https://github.com/user-attachments/assets/05a5d4f4-92de-4b00-a597-0092f6746e0c" />
- # Hi 👋, I'm Ankit
- 💻 Full Stack Developer (Java, Spring Boot, React)
- 🌱 Currently learning Microservices & System Design  
- 🚀 Building Web Applications and ERP Systems  
+
+## Hi 👋, I'm Ankit Anand
+
+💻 Full Stack Developer  
+⚙️ Tech Stack: Java | Spring Boot | React | MySQL  
+🌱 Currently learning Microservices & System Design  
+🚀 Building Web Applications and ERP Systems  
 
 ## 🛠 Skills
 - Java ,  Spring Boot , Rest Api , MicroService , React , MySQL , HTML , CSS , JavaScript
