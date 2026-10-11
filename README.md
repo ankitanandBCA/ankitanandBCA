@@ -46,7 +46,7 @@
 
 **Hospital Management System**
 
-Microservices-based platform for managing hospitals, doctors, appointments, departments, beds, staff, ambulances and billing.
+A microservices-based healthcare platform for managing hospitals, doctors, departments, appointments, beds, staff, ambulances, and billing.
 
 `Java` `Spring Boot` `Microservices` `React` `MySQL`
 
@@ -54,15 +54,13 @@ Microservices-based platform for managing hospitals, doctors, appointments, depa
 
 <td width="50%" valign="top">
 
-### 🏢 ERP System
+### 📋 Project Management Software
 
-**Enterprise Resource Planning**
+**Task & Project Management Platform**
 
-Full-stack ERP application built to manage and automate different business operations using a microservices architecture.
+A full-stack application for managing projects, tasks, team collaboration, progress tracking, and project workflows.
 
-`Java` `Spring Boot` `React` `MySQL` `Docker`
-
-🚧 In Development
+`Java` `Spring Boot` `React` `MySQL` `REST API`
 
 </td>
 </tr>
@@ -70,21 +68,25 @@ Full-stack ERP application built to manage and automate different business opera
 <tr>
 <td width="50%" valign="top">
 
-### 🏨 Hotel Reservation System
+### 🎓 LMS Software
 
-Web application for managing hotel rooms, customers and reservations.
+**Learning Management System**
 
-`Java` `Spring Boot` `MySQL`
+A web-based learning platform for managing courses, students, learning content, assignments, and academic activities.
+
+`Java` `Spring Boot` `React` `MySQL`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏠 Real Estate Platform
+### 🏠 Real Estate Rental Platform
 
-Web platform for listing, searching and managing rental properties.
+**Property Rental Platform**
 
-`Full Stack` `REST API` `MySQL`
+A full-stack platform for listing, searching, and managing rental properties with a simple and user-friendly experience.
+
+`Java` `Spring Boot` `React` `MySQL`
 
 </td>
 </tr>
