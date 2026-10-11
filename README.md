@@ -108,7 +108,11 @@ A full-stack platform for listing, searching, and managing rental properties wit
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ankitanandBCA&theme=github-dark-blue&hide_border=true" />
 </p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitanandBCA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+</p>
 ---
 
 ## 🐍 Contribution Activity
